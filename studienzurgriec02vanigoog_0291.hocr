@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studienzurgriec02vanigoog_0291.png"; bbox 0 0 2972 4868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 267 1521 1162 1889">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 267 1521 1162 1889">
+     <span class='ocr_line' id='line_1_1' title="bbox 507 1521 918 1645; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 507 1521 918 1645; x_wconf 76' lang='lat' dir='ltr'><strong>QUAESTIONES</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 267 1767 1162 1889; baseline 0.006 -6"><span class='ocrx_word' id='word_1_2' title='bbox 267 1768 343 1884; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 395 1768 874 1889; x_wconf 78' lang='lat' dir='ltr'><strong>REDUPLICATIONE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 927 1767 1162 1888; x_wconf 78' lang='lat' dir='ltr'><strong>GRAECA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 382 2487 1043 2564">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 382 2487 1043 2564">
+     <span class='ocr_line' id='line_1_3' title="bbox 382 2487 1043 2564; baseline -0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 382 2491 428 2563; x_wconf 78' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 455 2491 744 2564; x_wconf 76' lang='lat' dir='ltr'><strong>mcmnus</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 770 2487 1043 2562; x_wconf 73' lang='lat' dir='ltr'>rnffzsclm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1490 4868">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1490 4868">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1490 4868; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1490 4868; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

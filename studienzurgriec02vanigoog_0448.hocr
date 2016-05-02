@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./studienzurgriec02vanigoog_0448.png"; bbox 0 0 2992 4870; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 533 2254 1075 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 533 2254 1075 2308">
+     <span class='ocr_line' id='line_1_1' title="bbox 533 2254 1075 2308; baseline 0 -12"><span class='ocrx_word' id='word_1_1' title='bbox 533 2254 606 2300; x_wconf 80' lang='lat' dir='ltr'><strong>Druck</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 619 2269 661 2299; x_wconf 82' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 675 2257 696 2299; x_wconf 86' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 710 2256 736 2299; x_wconf 81' lang='lat' dir='ltr'><strong>B.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 752 2256 922 2300; x_wconf 77' lang='lat' dir='ltr'><strong>Hirschfeld</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 936 2257 960 2298; x_wconf 82' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 973 2257 1075 2308; x_wconf 73' lang='lat' dir='ltr'><strong>Leipzig.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1500 4870">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1500 4870">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1500 4870; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1500 4870; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
